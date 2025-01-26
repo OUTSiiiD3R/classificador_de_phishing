@@ -14,7 +14,7 @@ Saída
 Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-Entrada	Saída
-Ganhe um prêmio incrível hoje!	Classificação: Phishing
-Não perca esta promoção exclusiva!	Classificação: Phishing
-Você está convidado para a reunião amanhã!	Classificação: Seguro
+Entrada	                                         Saída
+Ganhe um prêmio incrível hoje!	                 Classificação: Phishing
+Não perca esta promoção exclusiva!	             Classificação: Phishing
+Você está convidado para a reunião amanhã!	     Classificação: Seguro
